@@ -9,6 +9,9 @@ html {
 }
 
 @media only screen and (min-width: 1196px) {
-  position 
+  #bear {
+    position: absolute;
+    top: 100px;
+    right: 0;
 }
 
