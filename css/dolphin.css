@@ -18,12 +18,12 @@ html {
   right: 0;
 }
 
-@media only screen and (max-width: 1320px) {
-  #ostrich {
+@media only screen and (max-width: 1090px) and (min-width:642px) {
+  #dolphin {
     position: absolute;
-    top: -50px;
-    left: 800px;
+    top: 50px;
+    right: 120px;
   }
-
+}
 
 
