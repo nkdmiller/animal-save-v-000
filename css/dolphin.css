@@ -18,4 +18,12 @@ html {
   right: 0;
 }
 
+@media only screen and (max-width: 1320px) {
+  #ostrich {
+    position: absolute;
+    top: -50px;
+    left: 800px;
+  }
+
+
 
